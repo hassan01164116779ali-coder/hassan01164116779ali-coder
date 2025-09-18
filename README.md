@@ -4,7 +4,7 @@
 
 <hr>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:000000&height=200&section=header&text=Hassan%40Ali%40|%40Frontend%40Developer&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:000000&height=200&section=header&text=Hassan%20Ali%20|%20Frontend%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <img src="your-banner.png" alt="Banner" width=1100>
