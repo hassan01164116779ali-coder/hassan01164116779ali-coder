@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hassan Ali</h1>
-<h3 align="center">Frontend Developer | React & Next.js Enthusiast</h3>
+<h3 align="center">Frontend Developer | React & Next.js Developer</h3>
 
 <hr>
 
@@ -9,10 +9,14 @@
 <hr>
 
 <h3 align="left">About</h3>
-<p>A passionate frontend developer with a strong interest in building modern, scalable web applications. Experienced in using React and Next.js to deliver clean and responsive user experiences.</p>
+<p>
+I design and edit modern websites using <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and build scalable web applications with <b>React.js</b> and <b>Next.js</b>.  
+I enjoy creating responsive, user-friendly interfaces and continuously improving my frontend skills.
+</p>
+
 <p>
 - 💻 All of my projects are available on <a href="https://github.com/yourusername"><b>GitHub</b></a><br>
-- 🌱 Currently improving my skills in **TypeScript** and **UI/UX design**.<br>
+- 🌱 Currently improving my skills in <b>TypeScript</b> and <b>UI/UX design</b>.<br>
 - 👯 Open to collaborate on frontend projects and web applications.<br>
 </p>
 
@@ -74,5 +78,3 @@
 <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> &nbsp;
 <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a> 
 </p>
-
-
